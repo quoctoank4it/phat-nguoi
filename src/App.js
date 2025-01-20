@@ -116,7 +116,7 @@ function App() {
           Đây là website phục vụ cho cá nhân, gia đình và bạn bè, không thương
           mại!
         </span>
-        <span>Toàn diệp: 0972914410</span>
+        <span>Toàn Diệp: 0972914410</span>
       </div>
     </div>
   );
