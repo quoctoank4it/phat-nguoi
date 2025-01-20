@@ -112,7 +112,7 @@ function App() {
       <div
         style={{ display: "inline-grid", fontStyle: "italic", marginTop: 40 }}
       >
-        <span>
+        <span style={{ marginBottom: 5 }}>
           Đây là website phục vụ cho cá nhân, gia đình và bạn bè, không thương
           mại!
         </span>
