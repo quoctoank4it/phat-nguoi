@@ -85,7 +85,7 @@ function App() {
         ))}
       </div>
 
-      <div className="input-container">
+      <div className="input-container" style={{ display: "flex" }}>
         <input
           type="text"
           value={inputValue}
