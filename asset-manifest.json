@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/phat-nguoi/static/css/main.42f1626f.css",
-    "main.js": "/phat-nguoi/static/js/main.2e4daa81.js",
+    "main.js": "/phat-nguoi/static/js/main.53a46113.js",
     "static/js/488.fb85a29d.chunk.js": "/phat-nguoi/static/js/488.fb85a29d.chunk.js",
     "index.html": "/phat-nguoi/index.html",
     "main.42f1626f.css.map": "/phat-nguoi/static/css/main.42f1626f.css.map",
-    "main.2e4daa81.js.map": "/phat-nguoi/static/js/main.2e4daa81.js.map",
+    "main.53a46113.js.map": "/phat-nguoi/static/js/main.53a46113.js.map",
     "488.fb85a29d.chunk.js.map": "/phat-nguoi/static/js/488.fb85a29d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42f1626f.css",
-    "static/js/main.2e4daa81.js"
+    "static/js/main.53a46113.js"
   ]
 }
