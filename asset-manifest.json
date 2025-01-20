@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phat-nguoi/static/css/main.d6020f6e.css",
+    "main.js": "/phat-nguoi/static/js/main.761a136c.js",
+    "static/js/488.fb85a29d.chunk.js": "/phat-nguoi/static/js/488.fb85a29d.chunk.js",
+    "index.html": "/phat-nguoi/index.html",
+    "main.d6020f6e.css.map": "/phat-nguoi/static/css/main.d6020f6e.css.map",
+    "main.761a136c.js.map": "/phat-nguoi/static/js/main.761a136c.js.map",
+    "488.fb85a29d.chunk.js.map": "/phat-nguoi/static/js/488.fb85a29d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6020f6e.css",
+    "static/js/main.761a136c.js"
+  ]
+}
