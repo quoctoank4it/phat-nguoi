@@ -43,7 +43,7 @@ function App() {
         `https://api.phatnguoi.vn/web/tra-cuu/bienso/phuongtien`,
         {
           params: {
-            bienso: inputValue,
+            bienso: inputValue.toUpperCase(),
             phuongtien: vehicleTypeMap[selectedVehicle],
           },
         }
@@ -74,7 +74,7 @@ function App() {
         <h2>Tra Cứu Phạt Nguội</h2>
       </div>
       <div className="vehicle-buttons">
-        {["Ô tô", "Xe máy", "Xe đạp điện"].map((vehicle) => (
+        {["Ô tô", "Xe máy", "Xe máy điện"].map((vehicle) => (
           <button
             key={vehicle}
             className={selectedVehicle === vehicle ? "active" : ""}

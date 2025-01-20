@@ -58,6 +58,7 @@
 .vehicle-buttons button.active {
   background-color: #007bff;
   color: white;
+  width: 90px;
 }
 
 .input-container input {
