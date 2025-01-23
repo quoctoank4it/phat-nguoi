@@ -90,7 +90,7 @@ function App() {
           type="text"
           value={inputValue}
           onChange={handleInputChange}
-          placeholder="Nhập biển số"
+          placeholder="47T106288"
         />
       </div>
 
