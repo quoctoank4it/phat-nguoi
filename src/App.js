@@ -43,7 +43,7 @@ function App() {
         `https://api.phatnguoi.vn/web/tra-cuu/bienso/phuongtien`,
         {
           params: {
-            bienso: inputValue.toUpperCase(),
+            bienso: inputValue.toUpperCase().replace("-", "").replace(".", ""),
             phuongtien: vehicleTypeMap[selectedVehicle],
           },
         }
@@ -90,7 +90,7 @@ function App() {
           type="text"
           value={inputValue}
           onChange={handleInputChange}
-          placeholder="47T106288"
+          placeholder="Nhập biển số, ví dụ: 47T112345"
         />
       </div>
 
